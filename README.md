@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manan-Gajjar
-- 👀 I’m interested in computer :computer:, physics, and deep space exploration :rocket:
+- 👀 I’m Electrical engineer & data science enthusiast loves computers 💻, and travelling ⛰️ 🏖️
 - 🌱 I’m currently learning deep learning & natural language processing.
 - 📫 How to reach me [manan.gajjar1@gmail.com](mailto:manan.gajjar1@gmail.com?subject=[GitHub]%20Reference)
 
